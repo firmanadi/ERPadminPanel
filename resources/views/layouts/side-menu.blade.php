@@ -7,24 +7,9 @@
     </a>
     <ul>
         <li>
-            <a href="index.html" class="{{ Request::is('home') ? 'mm-active' : '' }}">
+            <a href="{!! route('home') !!}" class="{{ Request::is('home') ? 'mm-active' : '' }}">
                 <i class="metismenu-icon">
                 </i>Analytics
-            </a>
-        </li>
-    </ul>
-</li>
-<li>
-    <a href="#">
-        <i class="metismenu-icon pe-7s-browser"></i>
-        Pages
-        <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
-    </a>
-    <ul>
-        <li>
-            <a href="pages-login.html">
-                <i class="metismenu-icon"></i>
-                Login
             </a>
         </li>
     </ul>
