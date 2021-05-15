@@ -7,7 +7,7 @@ Admin panel using Laravel, livewire and turbolinks as starter pack
 
 ### Installation
 
-- git clone https://github.com/firmanadi/erpladmin.git
+- git clone https://github.com/firmanadi/ERPadminPanel.git
 - cd ERPladmin
 - composer install
 
