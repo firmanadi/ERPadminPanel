@@ -10,6 +10,7 @@ Admin panel using Laravel, livewire and turbolinks as starter pack
 - git clone https://github.com/firmanadi/ERPadminPanel.git
 - cd ERPladmin
 - composer install
+- php artisan migrate
 
 ### ArchiTech
 
